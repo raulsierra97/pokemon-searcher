@@ -1,6 +1,6 @@
 # Pokemon Searcher
 
-React app to search pokemons using a Pokemon API: https://pokeapi.co/
+React app to search Pokemon using a Pokemon API: https://pokeapi.co/
 
 # Getting Started with Create React App
 
